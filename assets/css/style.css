@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Montserrat&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+    font-family: Montserrat, sans-serif;
+    color: #000000;
+    font-weight: 300;
+}
+
+h1, h2 {
+    font-family: Comfortaa, sans-serif;
+    color: #000000;
+    font-weight: 300;
+}
+
+.yellow {
+    color: #F9B004;
+}

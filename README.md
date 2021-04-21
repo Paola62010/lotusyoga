@@ -33,6 +33,7 @@ ___
 6. As an potential customer, I want to see pictures of the yoga classes, pictures have a good quality on different devices.
 7. As a potential customer, I want to be able to get in touch with the yoga center.
 8. As a potential customer I want to be able to locate the yoga studio on a map.
+9. As a returning customer I want to register to the yoga studio's newsletter so that I can get updates on promotions/events. 
 
 ### Wireframe mockups:
 

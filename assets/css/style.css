@@ -34,7 +34,7 @@ h1, h2 {
 /* navigation links */
 
 #menu {
-    font-size: 1.875rem;
+    font-size: 1.5rem;
     margin-top: 30px;
 }
 
@@ -50,6 +50,7 @@ h1, h2 {
     border-radius: 20px;
     background-color: #DDDEE0;
     padding: 5px 15px;
+    width: 3rem;
 }
 
 #topnav {
@@ -57,5 +58,9 @@ h1, h2 {
 }
 
 #menu a:hover {
+    background-color: #FFFFFF;
+}
 
+#menu .active {
+    background-color: #FFFFFF;
 }

@@ -14,7 +14,7 @@ body {
 
 /* headings */
 
-h1, h2 {
+h1, h2, h3 {
     font-family: Comfortaa, sans-serif;
     color: #000000;
     font-weight: 300;
@@ -63,4 +63,12 @@ h1, h2 {
 
 #menu .active {
     background-color: #FFFFFF;
+}
+
+/* home page main section */
+
+.main {
+    clear: both;
+    text-align: center;
+    margin: auto;
 }

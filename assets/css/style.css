@@ -20,6 +20,14 @@ h1, h2, h3 {
     font-weight: 300;
 }
 
+h2 {
+    font-size: 2rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
 .yellow {
     color: #F9B004;
 }
@@ -71,4 +79,13 @@ h1, h2, h3 {
     clear: both;
     text-align: center;
     margin: auto;
+    padding-top: 6rem;
+}
+
+.main div {
+    padding: 3rem;
+}
+
+.mainlist li {
+    list-style-type: none;
 }

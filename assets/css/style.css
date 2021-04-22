@@ -8,6 +8,7 @@
 
 body {
     font-family: Montserrat, sans-serif;
+    font-size: 1rem;
     color: #000000;
     font-weight: 300;
 }
@@ -88,4 +89,26 @@ h3 {
 
 .mainlist li {
     list-style-type: none;
+}
+
+/* home page newsletter section */
+
+.newsletter {
+    text-align: center;
+    margin: auto;
+}
+
+.newsletter form {
+    padding: 3rem;
+}
+
+.newsletter input {
+    display: block;
+    margin: auto;
+    text-align: center;
+    font-family: Montserrat, sans-serif;
+    font-size: 1rem;
+    padding: 5px 15px;
+    border-radius: 20px;
+    background-color: rgb(17, 0, 255)
 }

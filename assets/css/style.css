@@ -169,3 +169,28 @@ h3 {
 .float-right {
     float: right;
 }
+
+/* classes page, pricing section*/
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    font-size: 2rem;
+}
+
+.pricebox {
+    padding: 3rem;
+    margin: 1rem;
+    width: 200px;
+    background-color: bisque;
+    border-radius: 20px;
+    text-align: center;
+}
+
+
+
+hr {
+    border: 1px solid #000000;
+}

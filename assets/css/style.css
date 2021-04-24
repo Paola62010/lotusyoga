@@ -11,10 +11,20 @@ body {
     font-size: 1rem;
     color: #000000;
     font-weight: 300;
-    background-color: antiquewhite;
 }
 
-/* headings */
+
+.home-bg {
+    background-image: url(../images/1-he-zhu-1YODHOIj46Q-unsplash.jpg);
+    background-color: antiquewhite;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    clear: both;
+}
+
+/* headings and logo */
 
 h1, h2, h3 {
     font-family: Comfortaa, sans-serif;
@@ -39,6 +49,7 @@ h3 {
     margin-left: 30px;
     margin-top: 30px;
     font-size: 3.313rem;
+    line-height: 75px;
 }
 
 /* navigation links */
@@ -46,6 +57,7 @@ h3 {
 #menu {
     font-size: 1.5rem;
     margin-top: 30px;
+    line-height: 75px;
 }
 
 #menu li{
@@ -111,5 +123,5 @@ h3 {
     font-size: 1rem;
     padding: 5px 15px;
     border-radius: 20px;
-    background-color: rgb(17, 0, 255)
+    background-color: #FFFFFF;
 }

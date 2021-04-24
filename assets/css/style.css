@@ -144,7 +144,23 @@ h3 {
     color: #C7C8C0;
 }
 
-/* classes page, classes section*/
+/* classes page background*/
+
+.lotus-bg {
+    background-image: url(../images/lotus-bg.jpg);
+    background-color: #C7C8C0;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    clear: both;
+}
+
+/* classes page, headings and classes section*/
+
+.yogaclasses h2, .prices h2 {
+    margin-left: 2rem;
+}
 
 .yogaclasses {
     clear: both;
@@ -152,9 +168,9 @@ h3 {
 
 .yogaclasses div {
     text-align: center;
-    margin: 2rem 5rem;
+    margin: 2rem 2rem;
     padding: 1.5rem;
-    background-color: bisque;
+    background-color: #FFFFFF;
     border-radius: 20px;
 }
 
@@ -184,12 +200,10 @@ h3 {
     padding: 3rem;
     margin: 1rem;
     width: 200px;
-    background-color: bisque;
+    background-color: #FFFFFF;
     border-radius: 20px;
     text-align: center;
 }
-
-
 
 hr {
     border: 1px solid #000000;

@@ -159,7 +159,9 @@ h3 {
 /* classes page, headings and classes section*/
 
 .yogaclasses h2, .prices h2 {
-    margin-left: 2rem;
+    text-align: center;
+    padding-top: 2rem;
+    margin-bottom: 2rem;
 }
 
 .yogaclasses {
@@ -170,7 +172,7 @@ h3 {
     text-align: center;
     margin: 2rem 2rem;
     padding: 1.5rem;
-    background-color: #FFFFFF;
+    background-color: rgb(255, 255, 255, 0.8);
     border-radius: 20px;
 }
 
@@ -200,11 +202,15 @@ h3 {
     padding: 3rem;
     margin: 1rem;
     width: 200px;
-    background-color: #FFFFFF;
+    background-color: rgb(255, 255, 255, 0.8);
     border-radius: 20px;
     text-align: center;
 }
 
 hr {
     border: 1px solid #000000;
+}
+
+.prices {
+    padding-bottom: 2rem;
 }

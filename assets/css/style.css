@@ -143,3 +143,29 @@ h3 {
     font-size: 2rem;
     color: #C7C8C0;
 }
+
+/* classes page, classes section*/
+
+.yogaclasses {
+    clear: both;
+}
+
+.yogaclasses div {
+    text-align: center;
+    margin: 2rem 5rem;
+    padding: 1.5rem;
+    background-color: bisque;
+    border-radius: 20px;
+}
+
+.yogaclasses p {
+    padding: 1rem;
+}
+
+.yogaclasses h3 {
+    text-align: left;
+}
+
+.float-right {
+    float: right;
+}

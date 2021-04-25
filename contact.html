@@ -29,9 +29,10 @@
             </ul>
         </nav>
     </header>
-    <div class="home-bg">
-        <h2>Get in touch!</h2>
-        <div>
+    <div class="home-bg contact">
+        <h2 id="align-center">Get in touch!</h2>
+        <div class="wrapper">
+        <div id="address">
             <p>Have questions about our classes? Please get in touch:</p>
             <br>
             <p><strong>Phone: </strong>0123456789</p>
@@ -39,8 +40,19 @@
             <br>
             <p><strong>Address: </strong>85 Pembroke Ln, Dublin</p>
         </div>
-        <div>Form</div>
-        <div>map</div>
+        <div id="form">
+            <form action="" method="POST" id="contact-form">
+                <input type="text" name="fname" placeholder="First Name" required>
+                <input type="text" name="lname" placeholder="Last Name" required>
+                <input type="email" name="email" placeholder="Your Email Address" required>
+                <textarea name="message" cols="25" rows="10" placeholder="Type Your Message Here"></textarea>
+                <input type="submit" value="Send">
+            </form>
+        </div>
+        <div id="map">
+            <iframe src="https://maps.google.com/maps?q=85%20Pembroke%20Ln,%20Dublin&t=&z=13&ie=UTF8&iwloc=&output=embed"></iframe>
+        </div>
+        </div>
     </div>
     <footer>
         <ul class="socialmedia-links">

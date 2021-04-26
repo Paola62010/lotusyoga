@@ -194,7 +194,7 @@ h3 {
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    font-size: 2rem;
+    
 }
 
 .pricebox {
@@ -204,6 +204,10 @@ h3 {
     background-color: rgb(255, 255, 255, 0.8);
     border-radius: 20px;
     text-align: center;
+}
+
+.pricebox p {
+    font-size: 2rem;
 }
 
 hr {
@@ -254,6 +258,11 @@ img {
     margin: 1rem;
     width: 400px;
     background-color: #FFFFFF;
+}
+
+#contact-form label {
+    padding: 0.5rem;
+    margin: 1rem;
 }
 
 .wrapper {

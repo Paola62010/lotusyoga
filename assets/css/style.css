@@ -266,10 +266,10 @@ img {
 }
 
 .wrapper {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(600px, 1fr));
-    place-items: center;
-    grid-gap: 1rem;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
     padding: 4rem;
     margin: 4rem;
     background-color: rgb(255, 255, 255, 0.7);
@@ -285,14 +285,17 @@ img {
 
 #form {
     width: 600px;
+    padding: 1rem;
 }
 
 #address {
     width: 600px;
+    padding: 1rem;
 }
 
 #map {
     width: 600px;
+    padding: 1rem;
 }
 
 

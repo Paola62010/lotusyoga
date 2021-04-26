@@ -225,7 +225,7 @@ hr {
 
 .grid-gallery {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
     grid-gap: 1rem;
     justify-items: center;
 }
@@ -254,6 +254,7 @@ img {
     padding: 0.5rem;
     margin: 1rem;
     width: 500px;
+    background-color: #FFFFFF;
 }
 
 .wrapper {

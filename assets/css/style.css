@@ -64,6 +64,7 @@ header {
     margin-top: 30px;
     line-height: 75px;
     display: flex;
+    flex-wrap: wrap;
 }
 
 #menu li{
@@ -171,6 +172,11 @@ header {
     margin-bottom: 2rem;
 }
 
+.schedule {
+    font-size: 1rem;
+    
+}
+
 
 .yogaclasses {
     display: flex;
@@ -197,6 +203,7 @@ header {
     
     display: flex;
     justify-content: space-between;
+    align-items: baseline;
 }
 
 
@@ -241,7 +248,7 @@ hr {
 
 .grid-gallery {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
     grid-gap: 1rem;
     justify-items: center;
 }
@@ -270,7 +277,7 @@ img {
     padding: 0.5rem;
     margin: 1rem;
     width: 400px;
-    background-color: #FFFFFF;
+    background-color: rgb(255, 255, 255, 0.7);
 }
 
 #contact-form label {
@@ -283,10 +290,7 @@ img {
     align-items: center;
     flex-wrap: wrap;
     justify-content: center;
-    padding: 4rem;
-    margin: 4rem;
-    background-color: rgb(255, 255, 255, 0.7);
-    border-radius: 20px;
+    padding: 2rem;
 }
 
 
@@ -297,23 +301,24 @@ img {
 
 
 #form {
-    width: 600px;
+    width: 500px;
     padding: 1rem;
 }
 
 #address {
-    width: 600px;
+    width: 500px;
     padding: 1rem;
+    text-align: center;
 }
 
 #map {
-    width: 600px;
+    width: 500px;
     padding: 1rem;
 }
 
 
 iframe {
-    width: 600px;
+    width: 500px;
     height: 350px;
 }
 

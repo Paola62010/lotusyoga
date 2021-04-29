@@ -46,6 +46,7 @@ h3 {
 #logo {
     
     margin-left: 30px;
+    margin-right: 30px;
     margin-top: 15px;
     font-size: 3.313rem;
     line-height: 75px;
@@ -372,4 +373,11 @@ iframe {
     #contact-form input, #contact-form textarea {
     width: 300px;
     }
+}
+
+@media only screen and (max-width: 935px) {
+    header {
+    justify-content: center;
+    align-items: center;
+}
 }

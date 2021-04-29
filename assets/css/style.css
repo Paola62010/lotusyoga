@@ -349,4 +349,27 @@ iframe {
     h3 {
     font-size: 1.2rem;
     }
+    .wrapper > div {
+    padding: 0; 
+    margin: 0; 
+    }
+    #address {
+    width: 350px;
+    padding: 0.8rem;
+    }
+    #map {
+    width: 350px;
+    padding: 0.8rem;
+    }
+    iframe {
+    width: 350px;
+    height: 350px;
+    }
+    #form {
+    width: 350px;
+    padding: 0;
+    }
+    #contact-form input, #contact-form textarea {
+    width: 300px;
+    }
 }

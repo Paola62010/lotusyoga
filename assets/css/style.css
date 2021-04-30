@@ -109,6 +109,7 @@ header {
 
 .mainlist li {
     list-style-type: none;
+    margin-bottom: 1rem;
 }
 
 /* home page newsletter section */

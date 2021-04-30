@@ -327,6 +327,9 @@ iframe {
   .socialmedia-links i {
     margin: 1rem;
     }
+    #logo {
+        font-size: 3rem;
+    }
     #menu {
     font-size: 1rem;
     margin-top: 0;
@@ -355,23 +358,23 @@ iframe {
     margin: 0; 
     }
     #address {
-    width: 350px;
+    width: 300px;
     padding: 0.8rem;
     }
     #map {
-    width: 350px;
+    width: 300px;
     padding: 0.8rem;
     }
     iframe {
-    width: 350px;
+    width: 300px;
     height: 350px;
     }
     #form {
-    width: 350px;
+    width: 300px;
     padding: 0;
     }
     #contact-form input, #contact-form textarea {
-    width: 300px;
+    width: 250px;
     }
 }
 

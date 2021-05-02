@@ -242,6 +242,28 @@ hr {
     padding-bottom: 2rem;
 }
 
+.contact-us {
+    text-align: center;
+    padding: 2rem;
+    margin: 2rem auto;
+    background-color: rgb(255, 255, 255, 0.8);
+    border-radius: 20px;
+    width: 50%;
+}
+
+.contact-us a {
+    display: block;
+    padding: 1.5rem;
+    text-decoration: none;
+    background-color: #F9B004;
+    color: white;
+    border-radius: 20px;
+    width: 100px;
+    margin: 1rem auto 0;
+}
+
+
+
 /* gallery */
 
 .photogallery {
@@ -404,3 +426,4 @@ iframe {
     padding: 5px 10px;
 }
 }
+

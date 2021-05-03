@@ -101,7 +101,7 @@ header {
     padding-top: 6rem;
 }
 
-.main div {
+.main div:not(:last-child) {
     padding: 3rem;
 }
 
@@ -115,6 +115,7 @@ header {
 .newsletter {
     text-align: center;
     margin: auto;
+    padding: 3rem;
 }
 
 .newsletter p {
@@ -246,7 +247,7 @@ hr {
     padding-bottom: 2rem;
 }
 
-.contact-us {
+.contact-us, .classespage {
     text-align: center;
     padding: 2rem;
     margin: 2rem auto;
@@ -255,7 +256,7 @@ hr {
     width: 50%;
 }
 
-.contact-us a {
+.contact-us a, .classespage a {
     display: block;
     padding: 1.5rem;
     text-decoration: none;
@@ -380,6 +381,15 @@ iframe {
     margin: 0 1rem 1rem;
    
     }
+
+    .classespage {
+        margin: 0 auto 2rem;
+    }
+
+    .newsletter {
+        padding: 0;
+    } 
+
     .pricebox p {
     font-size: 1.5rem;
     }

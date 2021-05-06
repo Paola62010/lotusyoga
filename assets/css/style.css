@@ -177,8 +177,8 @@ header {
 
 .classes h2, .prices h2 {
     text-align: center;
-    padding-top: 2rem;
-    margin-bottom: 2rem;
+    padding-top: 6rem;
+    padding-bottom: 4rem;
 }
 
 .schedule {
@@ -293,7 +293,7 @@ img {
 /* contact page */
 
 .contact {
-    padding: 2rem;
+    padding: 6rem 2rem;
 }
 
 #align-center {
@@ -376,6 +376,11 @@ iframe {
         padding-top: 3rem;
     }
 
+    .classes h2, .prices h2 {
+        padding-top: 3rem;
+        padding-bottom: 2rem;
+    }
+
     .yogaclasses div {
     
     margin: 0 1rem 1rem;
@@ -401,6 +406,9 @@ iframe {
     }
     h3 {
     font-size: 1.2rem;
+    }
+    .contact {
+        padding: 3rem 2rem;
     }
     .wrapper > div {
     padding: 0; 

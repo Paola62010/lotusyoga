@@ -37,7 +37,11 @@ The main goal of the website is to promote the yoga studio's services and lead n
 
 ### Wireframe mockups:
 
-[links to wireframes](https://xd.adobe.com/view/b0d9dea9-eea4-4592-83f1-881f2bfa4a8e-e58a/?fullscreen&hints=offs)
+[Desktop Mockups](/Paola62010/lotusyoga/tree/master/assets/wireframe-mockups/desktop-mockups)
+
+[Tablet Mockups](/Paola62010/lotusyoga/tree/master/assets/wireframe-mockups/tablet-mockups)
+
+[Mobile Mockups](/Paola62010/lotusyoga/tree/master/assets/wireframe-mockups/mobile-mockups)
 
 ## Features
 ---
@@ -103,7 +107,7 @@ The project was deployed to Github Pages by following these steps:
 4. Under _Source_, select branch _Master_ from the dropdown menu and click on _Save_.  
 5. The page is refreshed automatically and a link for the published page is generated, https://paola62010.github.io/lotusyoga
 
-### Closing the repository
+### Cloning the repository
 
 To clone the repository, follow these steps: 
 

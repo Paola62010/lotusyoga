@@ -1,5 +1,7 @@
 # LotusYoga
 
+[View deployed site here](https://paola62010.github.io/lotusyoga/)
+
 A website for a yoga studio located in Dublin, Ireland. The website includes a welcome page, a list of classes being offered, pricing for the classes, a gallery section, contact information and address, a map showing the studio location and a form to send a message to the yoga studio owner. 
 
 The main goal of the website is to promote the yoga studio's services and lead new customers to make contact with the studio and potentially book a class. New customers should find all the necessary information on the website for them to make the decision to get in touch. 
@@ -37,11 +39,11 @@ The main goal of the website is to promote the yoga studio's services and lead n
 
 ### Wireframe mockups:
 
-[Desktop Mockups](/Paola62010/lotusyoga/tree/master/assets/wireframe-mockups/desktop-mockups)
+[Desktop Mockups](https://github.com/Paola62010/lotusyoga/blob/master/assets/wireframe-mockups/desktop-mockups.pdf)
 
-[Tablet Mockups](/Paola62010/lotusyoga/tree/master/assets/wireframe-mockups/tablet-mockups)
+[Tablet Mockups](https://github.com/Paola62010/lotusyoga/blob/master/assets/wireframe-mockups/tablet-mockups.pdf)
 
-[Mobile Mockups](/Paola62010/lotusyoga/tree/master/assets/wireframe-mockups/mobile-mockups)
+[Mobile Mockups](https://github.com/Paola62010/lotusyoga/blob/master/assets/wireframe-mockups/mobile-mockups.pdf)
 
 ## Features
 ---
@@ -92,6 +94,8 @@ This project uses Google Fonts to style the text for the website.
 This project uses Font Awesome for the icons used in the social media links. 
 
 ## Testing
+
+Testing information can be found in [TESTING.md](https://github.com/Paola62010/lotusyoga/blob/master/TESTING.md) file.
 
 ## Deployment
 

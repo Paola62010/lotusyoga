@@ -1,5 +1,7 @@
 # LotusYoga
 
+![Mockups](assets/readme-testing-images/mockups.png)
+
 [View deployed site here](https://paola62010.github.io/lotusyoga/)
 
 A website for a yoga studio located in Dublin, Ireland. The website includes a welcome page, a list of classes being offered, pricing for the classes, a gallery section, contact information and address, a map showing the studio location and a form to send a message to the yoga studio owner. 
@@ -39,11 +41,11 @@ The main goal of the website is to promote the yoga studio's services and lead n
 
 ### Wireframe mockups:
 
-[Desktop Mockups](https://github.com/Paola62010/lotusyoga/blob/master/assets/wireframe-mockups/desktop-mockups.pdf)
+[Desktop Mockups](https://github.com/Paola62010/lotusyoga/blob/master/assets/readme-testing-images/desktop-mockups.pdf)
 
-[Tablet Mockups](https://github.com/Paola62010/lotusyoga/blob/master/assets/wireframe-mockups/tablet-mockups.pdf)
+[Tablet Mockups](https://github.com/Paola62010/lotusyoga/blob/master/assets/readme-testing-images/tablet-mockups.pdf)
 
-[Mobile Mockups](https://github.com/Paola62010/lotusyoga/blob/master/assets/wireframe-mockups/mobile-mockups.pdf)
+[Mobile Mockups](https://github.com/Paola62010/lotusyoga/blob/master/assets/readme-testing-images/mobile-mockups.pdf)
 
 ## Features
 ---
@@ -141,7 +143,7 @@ https://en.wikipedia.org/wiki/Yin_Yoga
 
 https://en.wikipedia.org/wiki/Restorative_Yoga
 
-And from this article in www.mindbodygreen.com:
+And from this article at www.mindbodygreen.com:
 
 https://www.mindbodygreen.com/articles/the-11-major-types-of-yoga-explained-simply
 

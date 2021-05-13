@@ -12,7 +12,7 @@ The following validators were used to check the validity of the website code:
 
 [W3C CSS Valiation Service](http://jigsaw.w3.org/css-validator/)
 
-No errors ae returned. There is only one warning message that advises to possibly include a heading for the gallery page. In my opinion there is no need for a heading in this specific case as the user can clearly see they are on the gallery page from the navigation menu. 
+No errors ae returned. There is only one warning message that advises to possibly include a heading to the HTML for the gallery page. In my opinion there is no need for a heading in this specific case as the user can clearly see they are on the gallery page from the navigation menu and no additional description is needed to introduce the pictures. 
 
 ## User Stories Testing 
 
@@ -34,6 +34,7 @@ User stories can be found in the UX section in the [README.md file](https://gith
 3. As an interested customer, I want to know more about the yoga classes offered and the schedule for each class. 
 
     i. A clearly labelled Classes page provide the visitor with all the information about the classes and schedules.
+
     ii. On the home page there is a call-to-action button that redirects the visitor to the classes page. 
 
 
@@ -44,16 +45,19 @@ User stories can be found in the UX section in the [README.md file](https://gith
 5. As an interested customer, I want to be able to follow the Yoga center on social media so I can keep up with the latest news/updates.
 
     i. At the bottom of each page, the footer features links to 4 social media platforms
+
     ii. By clicking on the links, the visitor is redirected to the related social media platform website which opens in a new page. 
 
 6. As an potential customer, I want to see pictures of the yoga classes, pictures have a good quality on different devices.
 
     i. A clearly labelled Gallery page shows the visitor pictures taken at the yoga studio. 
+
     ii. Pictures are clearly visible on different size screens. 
 
 7. As a potential customer, I want to be able to get in touch with the yoga center.
 
     i. A clearly labelled Contact page provide the visitor with the contact information for the yoga studio.
+    
     ii. The Contact page features a contact form that allows the user to send a message to the studio. 
 
 8. As a potential customer I want to be able to locate the yoga studio on a map.
@@ -99,6 +103,12 @@ User stories can be found in the UX section in the [README.md file](https://gith
 
 5. Checked the functionality on different size screens, content is responsive and clearly visible on all screens. 
 
+#### Home Page (finished site)
+
+![Home page finished site section 1](assets/readme-testing-images/homepage1.png)
+
+![Home page finished site section 2](assets/readme-testing-images/homepage2.png)
+
 ### Classes Page 
 
 1. Navigation Menu
@@ -123,6 +133,12 @@ User stories can be found in the UX section in the [README.md file](https://gith
 
 6. Checked the functionality on different size screens, content is responsive and clearly visible on all screens.
 
+#### Classes Page (finished site)
+
+![Classes page finished site section 1](assets/readme-testing-images/classes1.png)
+
+![Classes page finished site section 2](assets/readme-testing-images/classes2.png)
+
 ### Gallery Page 
 
 1. Navigation Menu
@@ -140,6 +156,12 @@ User stories can be found in the UX section in the [README.md file](https://gith
     i. Follow same steps highlighted for the Home Page.
 
 4. Checked the functionality on different size screens, content is responsive and clearly visible on all screens.
+
+#### Gallery Page (finished site)
+
+![Gallery page finished site section 1](assets/readme-testing-images/gallery1.png)
+
+![Gallery page finished site section 1](assets/readme-testing-images/gallery2.png)
 
 ### Contact Page
 
@@ -168,3 +190,34 @@ User stories can be found in the UX section in the [README.md file](https://gith
     i. Follow same steps highlighted for the Home Page.
 
 5. Checked the functionality on different size screens, content is responsive and clearly visible on all screens.
+
+#### Contact Page (finished site)
+
+![Contact page finished site section 1](assets/readme-testing-images/contactpage.png)
+
+## Additional Testing 
+
+- Site was tested in different browsers and works nicely in all of them: Google Chrome, Safari, Firefox, Microsoft Edge.
+
+- Used different devices for testing including: MacBook Pro, iPad Pro, iPhone 11 Pro and HP Pavillion Notebook. Latest operating system installed on all devices. 
+
+- Extensive use of Google Chrome DevTools to test site perormance and responsiveness. 
+
+- Use of Lighthouse feature on Google Chrome DevTools to test the site performance. Following results were achieved:
+
+    - Home Page 
+
+    ![Lighthouse results for home page](assets/readme-testing-images/homepage-lighthouse.png)
+
+    - Classes Page 
+
+    ![Lighthouse results for home page](assets/readme-testing-images/classespage-lighthouse.png)
+
+    - Gallery Page
+
+    ![Lighthouse results for home page](assets/readme-testing-images/gallerypage-lighthouse.png)
+
+    - Contact Page 
+
+    ![Lighthouse results for home page](assets/readme-testing-images/contactpage-lighthouse.png)
+

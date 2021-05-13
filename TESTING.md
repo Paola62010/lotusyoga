@@ -12,6 +12,8 @@ The following validators were used to check the validity of the website code:
 
 [W3C CSS Valiation Service](http://jigsaw.w3.org/css-validator/)
 
+No errors ae returned. There is only one warning message that advises to possibly include a heading for the gallery page. In my opinion there is no need for a heading in this specific case as the user can clearly see they are on the gallery page from the navigation menu. 
+
 ## User Stories Testing 
 
 User stories can be found in the UX section in the [README.md file](https://github.com/Paola62010/lotusyoga/blob/master/README.md)

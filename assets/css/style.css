@@ -81,8 +81,6 @@ header {
     
 }
 
-
-
 #menu a:hover {
     text-decoration: underline;
     color: #F9B004;
@@ -183,17 +181,13 @@ header {
 }
 
 .schedule {
-    font-size: 1rem;
-    
+    font-size: 1rem;   
 }
-
 
 .yogaclasses {
     display: flex;
     justify-content: center;
-    flex-wrap: wrap;
-    
-    
+    flex-wrap: wrap;  
 }
 
 .yogaclasses div {
@@ -267,8 +261,6 @@ hr {
     width: 100px;
     margin: 1rem auto 0;
 }
-
-
 
 /* gallery */
 
@@ -359,14 +351,18 @@ iframe {
     height: 350px;
 }
 
+@media only screen and (max-width: 1200px) {
+    .grid-gallery {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
 @media only screen and (max-width: 935px) {
     header {
     justify-content: center;
     align-items: center;
     }
-    .grid-gallery{
-        grid-template-columns: repeat(3, 1fr);
-    }
+    
 }
 
 @media only screen and (max-width: 800px) {
@@ -379,9 +375,11 @@ iframe {
   .socialmedia-links i {
     margin: 1rem;
     }
+
     #logo {
         font-size: 3rem;
     }
+
     #menu {
     font-size: 1rem;
     margin-top: 0;
@@ -390,6 +388,7 @@ iframe {
     #menu li {
     margin-right: 0; 
     }
+
     .main {
         padding-top: 3rem;
     }
@@ -416,53 +415,60 @@ iframe {
     .pricebox p {
     font-size: 1.5rem;
     }
+
     .photogallery {
     margin: 0;
     }
 
-    .grid-gallery{
+    .grid-gallery {
         grid-template-columns: 1fr;
     }
+
     h2 {
     font-size: 1.5rem;
     }
+
     h3 {
     font-size: 1.2rem;
     }
+
     .contact {
         padding: 3rem 2rem;
     }
+
     .wrapper > div {
     padding: 0; 
     margin: 0; 
     }
+
     #address {
     width: 300px;
     padding: 0.8rem;
     }
+
     #map {
     width: 300px;
     padding: 0.8rem;
     }
+
     iframe {
     width: 300px;
     height: 350px;
     }
+
     #form {
     width: 300px;
     padding: 0;
     }
+
     #contact-form input, #contact-form textarea {
     width: 250px;
     }
 }
 
-
-
 @media only screen and (max-width: 350px) {
     #menu a {
-    
     padding: 5px 10px;
-}
+    }
 }
 

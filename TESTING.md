@@ -57,7 +57,7 @@ User stories can be found in the UX section in the [README.md file](https://gith
 7. As a potential customer, I want to be able to get in touch with the yoga center.
 
     i. A clearly labelled Contact page provide the visitor with the contact information for the yoga studio.
-    
+
     ii. The Contact page features a contact form that allows the user to send a message to the studio. 
 
 8. As a potential customer I want to be able to locate the yoga studio on a map.
@@ -101,6 +101,8 @@ User stories can be found in the UX section in the [README.md file](https://gith
 
     ii. Click on each icon and verify that it redirects to the correct social media website.
 
+    iii. Verify that the social media website opens in a new tab.
+
 5. Checked the functionality on different size screens, content is responsive and clearly visible on all screens. 
 
 #### Home Page (finished site)
@@ -115,23 +117,15 @@ User stories can be found in the UX section in the [README.md file](https://gith
 
     i. Follow same steps highlighted for the Home Page. 
 
-2. Class boxes 
-
-    i. On desktop resize the window to verify that the boxes layout is responsive.
-
-3. Price boxes
-
-    i. On desktop resize the window to verify that the boxes layout is responsive.
-
-4. Call-to-action button
+2. Call-to-action button
 
     i. Click on the _Contact Us!_ button and verify that it redirects to the Contact Page. 
 
-5. Footer
+3. Footer
 
     i. Follow the same steps highlighted for the Home page. 
 
-6. Checked the functionality on different size screens, content is responsive and clearly visible on all screens.
+4. Checked the functionality on different size screens, content is responsive and clearly visible on all screens.
 
 #### Classes Page (finished site)
 
@@ -148,8 +142,6 @@ User stories can be found in the UX section in the [README.md file](https://gith
 2. Images 
 
     i. Check that the images are clearly visible and not distorted. 
-
-    ii. On desktop resize the window to verify that the grid is responsive. 
 
 3. Footer
 
